@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+}
+.container{
+    height: 100vh;
+    width: auto;
+    background-color: white;
+}
+.header{
+    height: 4rem;
+    background-color: rgba(0, 157, 255, 0.702);
+    text-align: center;
+    position: relative;
+}
+table{
+    position: relative;
+    bottom: 10px;
+}
+
+.box1{
+    height: 18rem;
+    width: 17rem;
+    background-color: rgba(255, 0, 0, 0.751);
+    margin-left: 140px;
+}
+.box2{
+    height: 18rem;
+    width: 45rem;
+    background-color: #fa9a50;
+    margin: 7px;
+}
+
+img{
+    height: 60px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.image{
+    height: 21rem;
+    background-color: #846246;
+}
